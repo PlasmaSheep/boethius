@@ -1,0 +1,12 @@
+---
+sources:
+  - "http://www.registrar.ucla.edu/schedule/geresult.aspx?termsel=15W&gecat=K10"
+  - "http://www.registrar.ucla.edu/schedule/geresult.aspx?termsel=15W&gecat=K20"
+  - "http://www.registrar.ucla.edu/schedule/geresult.aspx?termsel=15W&gecat=K30"
+  - "http://www.registrar.ucla.edu/schedule/geresult.aspx?termsel=15W&gecat=L10"
+  - "http://www.registrar.ucla.edu/schedule/geresult.aspx?termsel=15W&gecat=L20"
+  - "http://www.registrar.ucla.edu/schedule/geresult.aspx?termsel=15W&gecat=M10"
+  - "http://www.registrar.ucla.edu/schedule/geresult.aspx?termsel=15W&gecat=M20"
+
+database: "sqllite:///database.db"
+
